@@ -2,7 +2,7 @@
 
 vue3+el-select 区划地址选择组件， 动态配置级联关系。可以自定义初始区划，支持搜索。可以自定义级联和搜索接口
 
-<img alt="kh-region.gif" src="https://github.com/liang5460/kh-upload/blob/main/kh-region.gif" >
+<img alt="kh-region.gif" src="https://github.com/liang5460/kh-region/blob/main/kh-region.gif" >
 
 ## 安装
 

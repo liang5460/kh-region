@@ -1,0 +1,8 @@
+node_modules
+src
+packages
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+node_modules
